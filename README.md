@@ -1,0 +1,1 @@
+Este projeto tem o objetivo de verificar os valores dos ativos e, com base em um cálculo utilizando a Banda de Bollinger, enviar mensagens no WhatsApp indicando se é um bom momento para comprar ou vender.
